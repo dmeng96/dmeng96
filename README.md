@@ -7,6 +7,8 @@
 
 👨🏼‍💻 Working as a adata analyst since 2025
 
+👨‍💻 All of my projects are available at [https://github.com/dmeng96](https://github.com/dmeng96)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Daniela MENGUI) 
