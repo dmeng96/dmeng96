@@ -1,5 +1,8 @@
 ## Hi there 👋! I'm Daniela, a Data analyst from France
 
+
+💻 Data processing passionate
+
 👨🏼‍🎓 Openclassrooms former student
 
 👨🏼‍💻 Working as a adata analyst since 2025
