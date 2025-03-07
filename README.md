@@ -1,7 +1,7 @@
 ## Hi there 👋! I'm Daniela, a Data analyst from France
 
 
-💻 Data processing passionate
+🔭 Data processing passionate
 
 👨🏼‍🎓 Openclassrooms former student
 
