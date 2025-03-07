@@ -3,11 +3,13 @@
 
 🔭 Data processing passionate
 
-👨🏼‍🎓 Openclassrooms former student
+👨🏼‍🎓 Openclassrooms Certified Data Analyst program
 
 👨🏼‍💻 Working as a adata analyst since 2025
 
 👨‍💻 All of my projects are available at [https://github.com/dmeng96](https://github.com/dmeng96)
+
+🌱 In order to improve my skills and achieve potentials, I would like to deepen my knowledge in Python, SQL and Artificial Intelligence
 
 
 ## 🌐 Socials:
