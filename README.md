@@ -1,18 +1,17 @@
-## Hi there 👋! I'm Daniela, a Data analyst from France
+## Salut 👋! Je suis Daniela, Data Analyst
 
 
-🔭 Data processing passionate, in vocational retraining after 4 years in accounting and auditing
+🔭 Passionnée par le Traitement des données, en reconversion professionnelle après 4 ans en Comptabilité et Audit
 
-👨🏼‍🎓 Openclassrooms Certified Data Analyst program
+👨🏼‍🎓 Data Analyst Certifiée - Openclassrooms 
 
-👨🏼‍💻 Working as a adata analyst since 2025
+👨🏼‍💻 Actuellement en poste en qualité de Data Analyst dans une Fondation d'utilité Publique
 
-👨‍💻 All of my projects are available at [https://github.com/dmeng96](https://github.com/dmeng96)
+👨‍💻 Tous mes projets sont disponibles sur [https://github.com/dmeng96](https://github.com/dmeng96)
 
-🌱 In order to improve my skills and achieve potentials, I would like to deepen my knowledge in Python, SQL and Artificial Intelligence
+🌱 Dans un processus d'amélioration continue, je renforce mes compétences en Python, SQL et Intelligence Artificielle
 
-
-## 🌐 Socials:
+## 🌐 Réseaux Sociaux:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Daniela MENGUI) 
 
 ## 💻 Tech Stack:
